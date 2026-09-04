@@ -15,7 +15,7 @@ load_dotenv()
 st.set_page_config(
     page_title="Blood Work Analyzer",
     page_icon="🩸",
-    layout="wide",
+    layout="centered",
 )
 
 st.markdown(
