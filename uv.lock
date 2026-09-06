@@ -31,6 +31,7 @@ dependencies = [
     { name = "sentence-transformers" },
     { name = "streamlit" },
     { name = "torchvision" },
+    { name = "tqdm" },
 ]
 
 [package.metadata]
@@ -54,6 +55,7 @@ requires-dist = [
     { name = "sentence-transformers", specifier = ">=5.5.0" },
     { name = "streamlit", specifier = ">=1.57.0" },
     { name = "torchvision", specifier = ">=0.27.0" },
+    { name = "tqdm", specifier = ">=4.70.0" },
 ]
 
 [[package]]
